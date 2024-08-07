@@ -245,8 +245,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonTemplate>word</CommonTemplate>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<HTTPService>ОперацииСНоменклатурой</HTTPService>
+			<HTTPService>HelloWorld</HTTPService>
+			<HTTPService>getPicture</HTTPService>
 			<Catalog>Номенклатура</Catalog>
 			<InformationRegister>ШтрихКоды</InformationRegister>
 		</ChildObjects>

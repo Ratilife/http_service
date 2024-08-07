@@ -6,7 +6,27 @@
 		</Metadata>
 		<Metadata name="CommonModule.ОбщегоНазначения" id="b5cc5a32-2f8d-4010-87c4-1424ef4cf66a" configVersion="111eead1737bda48a956efceace6604c00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="b5cc5a32-2f8d-4010-87c4-1424ef4cf66a.0" configVersion="e4000c9a19ddd946ad6f7a988fc5825900000000"/>
-		<Metadata name="Configuration.Конфигурация" id="e603bcc0-a97d-4908-a6ca-290550effd19" configVersion="75332c567376c84e906348ebca7ea94500000000"/>
+		<Metadata name="CommonTemplate.word" id="59fb62c1-1a1a-425f-96e3-1e5f0864c8b2" configVersion="f283128f73b8dd45980a569afdc1fbce00000000"/>
+		<Metadata name="CommonTemplate.word.Template" id="59fb62c1-1a1a-425f-96e3-1e5f0864c8b2.0" configVersion="22688ffcc05dce42895d1ea09f71489300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="e603bcc0-a97d-4908-a6ca-290550effd19" configVersion="a2ac8112a4a657498bc721b942ba4b8300000000"/>
+		<Metadata name="HTTPService.HelloWorld" id="713f5c71-47f0-4cf4-aae2-7de1b9752c32" configVersion="b2637e4c4c41834fbec8ecfece5f299900000000">
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.sayHello.Method.getMessage" id="06a10adb-e749-4f66-8ed5-484f2be8a345"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.sayHello" id="0e9a763d-ea77-42fb-ad4b-b729067f9eb4"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.getWord" id="2d81d368-d5e4-42c0-8050-3a10add64dba"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.getWord.Method.getWord" id="5ea163e6-a812-4797-a402-d73c7d7752b0"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.sayHello3.Method.getMessage3" id="700dd867-4ad6-4a18-9789-a5afac4feeab"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.sayHello2" id="9926dd4b-6eed-4cf9-931e-24a25fb11f2f"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.stocks" id="a6be332f-aa2f-4e0e-80fc-740c88fd795a"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.sayHello2.Method.getMessage2" id="d9f2bcda-5281-4332-bfc0-fe39b9b3c92c"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.stocks.Method.POSTstocks" id="ea60f11a-4b6f-41d9-94be-ca6a39bf7ba2"/>
+			<Metadata name="HTTPService.HelloWorld.URLTemplate.sayHello3" id="f708ac1a-5b3e-4ebb-ad23-1483078949e5"/>
+		</Metadata>
+		<Metadata name="HTTPService.HelloWorld.Module" id="713f5c71-47f0-4cf4-aae2-7de1b9752c32.0" configVersion="5924faf903b77c418e60376661e0d05800000000"/>
+		<Metadata name="HTTPService.getPicture" id="9599b2ed-418f-41a7-9092-c70dc2e14657" configVersion="7b8a7cd6c0de734484625c8bff3b450500000000">
+			<Metadata name="HTTPService.getPicture.URLTemplate.getPicture" id="31195b56-eff8-4158-a9c3-0c4783409484"/>
+			<Metadata name="HTTPService.getPicture.URLTemplate.getPicture.Method.getPicture" id="f56e38fd-9998-4fec-b576-daff632982f3"/>
+		</Metadata>
+		<Metadata name="HTTPService.getPicture.Module" id="9599b2ed-418f-41a7-9092-c70dc2e14657.0" configVersion="b8044ebf2c475940b468c0a50092d6bf00000000"/>
 		<Metadata name="HTTPService.ОперацииСНоменклатурой" id="16c5a50c-92c1-40f6-aeca-5e4fe9d00dd3" configVersion="437edac09c290345a161007145c9158800000000">
 			<Metadata name="HTTPService.ОперацииСНоменклатурой.URLTemplate.ШаблонURL1" id="18e63a90-f370-4e10-b9d2-7525b5e67e3f"/>
 			<Metadata name="HTTPService.ОперацииСНоменклатурой.URLTemplate.ШаблонURL1.Method.ПолучитьДанныеПоНоменклатуре" id="3fd260f3-2c0a-41be-ba11-f4ef20cc9216"/>
