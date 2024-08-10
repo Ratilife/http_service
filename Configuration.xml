@@ -250,7 +250,9 @@
 			<HTTPService>ОперацииСНоменклатурой</HTTPService>
 			<HTTPService>HelloWorld</HTTPService>
 			<HTTPService>getPicture</HTTPService>
+			<HTTPService>testjwt</HTTPService>
 			<Catalog>Номенклатура</Catalog>
+			<DataProcessor>РаботаСJWT_токенами</DataProcessor>
 			<InformationRegister>ШтрихКоды</InformationRegister>
 		</ChildObjects>
 	</Configuration>
